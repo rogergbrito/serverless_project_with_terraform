@@ -1,0 +1,13 @@
+{
+  "name": "serverless-app",
+  "version": "1.0.0",
+  "description": "App built with Terraform",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Roger Brito <roogerbrito1@gmail.com> (https://github.com/rogergbrito)",
+  "license": "ISC",
+  "dependencies": {
+    "joi": "^17.3.0"
+  }
+}
